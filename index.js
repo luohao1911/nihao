@@ -1,2 +1,2 @@
 console.log("Hello !");
-console.log("nihao456");
+console.log("Hello");
